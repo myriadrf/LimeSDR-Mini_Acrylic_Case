@@ -11,14 +11,12 @@ A complete kit of parts can be bought from [Crowd Supply](https://www.crowdsuppl
 The case design is provided in the following formats:
 
 * FreeCAD
-* PDF
 * DXF
 
 The case parts are laser cut from the following types of acrylic sheet:
 
-* Layer 01: 3mm midnight black (frosted opaque)
-* Layer 02: 3mm glass look (clear with green hue)
-* Sides   : 3mm glass look (clear with green hue)
+* Base		: 3mm midnight black (frosted opaque)
+* Rails & Top	: 3mm glass look (clear with green hue)
 
 Other colours and finishes could be used, and the above were selected for a combination of aesthetic and practical reasons, e.g. frosted finish doesn't pick up finger marks.
 
